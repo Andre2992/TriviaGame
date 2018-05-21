@@ -1,0 +1,78 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background: yellow;
+}
+
+h1{
+    font-family: 'Titan One', cursive;
+    font-size: 50px;
+    font-weight: 70px;
+    color: blue;
+    text-align: center;
+}
+
+
+#trivia{
+    border: solid 2px gray;
+}
+
+#start{
+    background-color: yellow;
+    font-family: 'Titan One', cursive;
+    color: blue; 
+    position:relative;
+    right: 40%;
+    left: 47%;
+    top:35%; 
+}
+
+h2{
+    color: blue;
+    font-family: 'Titan One', cursive;
+    font-weight: 100px;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+#counter{
+    color: red;
+}
+
+#Out of Time{
+    color: orangered;
+    text-align: center;
+    font-family: 'Titan One', cursive;
+}
+
+image{
+    margin: auto;
+}
+
+#Right{
+    color: green;
+}
+
+#Wrong{
+    color: red;
+}
+
+h3{
+    color: brown;
+    font-family: 'Titan One', cursive;
+    text-align: center;
+    letter-spacing: 1px;
+
+}
+
+#reset{
+    background-color: yellow;
+    font-family: 'Titan One', cursive;
+    color: blue; 
+    position:relative;
+    right: 40%;
+    left: 47%;
+    top:35%; 
+}
